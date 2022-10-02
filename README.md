@@ -1,6 +1,6 @@
 ﻿# Rectangles App
 
-Very basic console app. Will attempt to create a Grid and two rectangles. 
+Very basic console app. Will attempt to create a Grid and two rectangles. For additional use cases please update the console Program.cs directly.
 
 ### How to run
 #### In Visual Studio:
